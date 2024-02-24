@@ -1,0 +1,531 @@
+{
+  "groups": [
+    {
+      "out_group": [
+        "backbone.layers.11.ffn.layers.1.weight",
+        "backbone.layers.9.ffn.layers.1.bias",
+        "backbone.layers.0.ffn.layers.1.bias",
+        "backbone.layers.2.attn.attn.in_proj_weight",
+        "backbone.layers.10.ln1.weight",
+        "backbone.layers.3.ffn.layers.1.weight",
+        "backbone.layers.6.attn.attn.in_proj_weight",
+        "backbone.layers.3.attn.attn.out_proj.bias",
+        "backbone.layers.5.ln2.bias",
+        "backbone.layers.7.attn.attn.in_proj_weight",
+        "backbone.layers.6.ffn.layers.1.bias",
+        "backbone.layers.3.ln2.bias",
+        "backbone.layers.3.attn.attn.out_proj.weight",
+        "backbone.layers.10.attn.attn.out_proj.bias",
+        "backbone.layers.0.attn.attn.in_proj_weight",
+        "backbone.layers.3.attn.attn.in_proj_weight",
+        "backbone.layers.7.ffn.layers.1.bias",
+        "backbone.layers.0.ln2.weight",
+        "backbone.layers.2.ffn.layers.1.weight",
+        "backbone.patch_embed.projection.bias",
+        "backbone.layers.11.ln2.weight",
+        "backbone.layers.0.attn.attn.out_proj.weight",
+        "backbone.layers.9.ln2.bias",
+        "backbone.layers.1.attn.attn.in_proj_weight",
+        "backbone.layers.2.attn.attn.in_proj_bias",
+        "backbone.layers.10.ln1.bias",
+        "backbone.layers.11.attn.attn.out_proj.bias",
+        "backbone.layers.3.ffn.layers.1.bias",
+        "backbone.layers.1.ln2.bias",
+        "backbone.layers.7.ln2.weight",
+        "backbone.layers.8.ffn.layers.1.bias",
+        "backbone.layers.6.ln1.bias",
+        "backbone.layers.7.attn.attn.out_proj.bias",
+        "backbone.layers.7.ffn.layers.1.weight",
+        "backbone.layers.4.ln2.weight",
+        "backbone.layers.3.ln2.weight",
+        "backbone.layers.7.ln1.weight",
+        "backbone.layers.9.attn.attn.in_proj_bias",
+        "backbone.layers.1.attn.attn.out_proj.bias",
+        "backbone.cls_token",
+        "backbone.layers.2.ln2.weight",
+        "backbone.layers.5.ln1.weight",
+        "backbone.layers.3.ln1.bias",
+        "backbone.layers.6.ln2.weight",
+        "backbone.layers.8.ln2.bias",
+        "backbone.layers.6.attn.attn.in_proj_bias",
+        "backbone.layers.7.attn.attn.in_proj_bias",
+        "backbone.layers.0.ffn.layers.1.weight",
+        "backbone.layers.7.ln1.bias",
+        "backbone.layers.9.ln1.weight",
+        "backbone.layers.10.attn.attn.in_proj_weight",
+        "backbone.layers.3.attn.attn.in_proj_bias",
+        "backbone.layers.0.ln1.bias",
+        "backbone.layers.7.ln2.bias",
+        "backbone.layers.11.ln1.weight",
+        "backbone.layers.4.attn.attn.out_proj.weight",
+        "backbone.layers.10.ffn.layers.1.weight",
+        "backbone.layers.10.ln2.bias",
+        "backbone.layers.0.attn.attn.out_proj.bias",
+        "backbone.layers.6.ln1.weight",
+        "backbone.layers.9.ffn.layers.1.weight",
+        "backbone.layers.5.attn.attn.in_proj_weight",
+        "backbone.layers.4.ln2.bias",
+        "backbone.layers.11.attn.attn.in_proj_weight",
+        "backbone.layers.11.ln2.bias",
+        "backbone.layers.1.ln1.bias",
+        "backbone.layers.5.ffn.layers.1.bias",
+        "backbone.layers.4.attn.attn.in_proj_weight",
+        "backbone.layers.6.attn.attn.out_proj.bias",
+        "backbone.layers.1.ln1.weight",
+        "backbone.layers.7.attn.attn.out_proj.weight",
+        "backbone.layers.5.ffn.layers.1.weight",
+        "backbone.layers.10.ln2.weight",
+        "backbone.layers.6.ffn.layers.1.weight",
+        "backbone.layers.6.attn.attn.out_proj.weight",
+        "backbone.layers.11.attn.attn.out_proj.weight",
+        "backbone.layers.1.attn.attn.in_proj_bias",
+        "backbone.layers.10.ffn.layers.1.bias",
+        "backbone.layers.4.attn.attn.in_proj_bias",
+        "backbone.layers.8.attn.attn.in_proj_bias",
+        "backbone.layers.5.ln2.weight",
+        "backbone.layers.9.ln1.bias",
+        "backbone.layers.2.ln1.weight",
+        "backbone.layers.8.ln2.weight",
+        "backbone.layers.6.ln2.bias",
+        "backbone.layers.1.attn.attn.out_proj.weight",
+        "backbone.layers.9.attn.attn.in_proj_weight",
+        "backbone.layers.10.attn.attn.out_proj.weight",
+        "backbone.layers.5.attn.attn.out_proj.bias",
+        "backbone.layers.3.ln1.weight",
+        "backbone.layers.8.attn.attn.in_proj_weight",
+        "backbone.layers.10.attn.attn.in_proj_bias",
+        "backbone.layers.2.ffn.layers.1.bias",
+        "backbone.layers.2.attn.attn.out_proj.bias",
+        "backbone.layers.4.ln1.bias",
+        "backbone.layers.5.attn.attn.out_proj.weight",
+        "backbone.layers.0.ln1.weight",
+        "backbone.layers.8.ffn.layers.1.weight",
+        "backbone.layers.8.ln1.bias",
+        "backbone.layers.8.attn.attn.out_proj.bias",
+        "backbone.layers.9.attn.attn.out_proj.weight",
+        "backbone.layers.4.ffn.layers.1.weight",
+        "backbone.layers.5.ln1.bias",
+        "backbone.layers.2.attn.attn.out_proj.weight",
+        "backbone.layers.0.ln2.bias",
+        "backbone.layers.2.ln1.bias",
+        "backbone.layers.9.ln2.weight",
+        "backbone.layers.5.attn.attn.in_proj_bias",
+        "backbone.layers.4.attn.attn.out_proj.bias",
+        "backbone.layers.11.ffn.layers.1.bias",
+        "backbone.layers.9.attn.attn.out_proj.bias",
+        "backbone.layers.4.ln1.weight",
+        "backbone.layers.8.attn.attn.out_proj.weight",
+        "backbone.layers.11.attn.attn.in_proj_bias",
+        "backbone.patch_embed.projection.weight",
+        "backbone.layers.4.ffn.layers.1.bias",
+        "backbone.layers.1.ffn.layers.1.bias",
+        "backbone.layers.2.ln2.bias",
+        "backbone.layers.0.attn.attn.in_proj_bias",
+        "backbone.layers.8.ln1.weight",
+        "backbone.layers.1.ln2.weight",
+        "backbone.layers.11.ln1.bias",
+        "backbone.pos_embed",
+        "backbone.layers.1.ffn.layers.1.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.6.ln2.bias",
+        "backbone.layers.4.ln2.weight",
+        "backbone.layers.7.ln2.bias",
+        "backbone.layers.8.ln1.weight",
+        "backbone.layers.2.attn.attn.in_proj_weight",
+        "backbone.layers.0.ln1.weight",
+        "backbone.layers.1.attn.attn.out_proj.weight",
+        "decode_head.psp_modules.1.1.conv.weight",
+        "backbone.layers.5.ln1.bias",
+        "decode_head.bottleneck.conv.weight",
+        "backbone.layers.9.attn.attn.in_proj_weight",
+        "backbone.layers.0.attn.attn.out_proj.weight",
+        "backbone.layers.8.ffn.layers.0.0.weight",
+        "backbone.layers.7.ln2.weight",
+        "backbone.layers.5.ln2.bias",
+        "backbone.layers.2.ffn.layers.0.0.weight",
+        "backbone.layers.2.ln1.weight",
+        "backbone.layers.1.attn.attn.in_proj_weight",
+        "backbone.layers.6.ffn.layers.0.0.weight",
+        "backbone.layers.2.ffn.layers.0.0.bias",
+        "backbone.layers.0.ln2.weight",
+        "backbone.layers.1.ln1.weight",
+        "backbone.layers.6.attn.attn.in_proj_weight",
+        "backbone.layers.10.attn.attn.out_proj.bias",
+        "backbone.layers.11.attn.attn.in_proj_weight",
+        "backbone.layers.0.attn.attn.out_proj.bias",
+        "backbone.layers.3.attn.attn.out_proj.bias",
+        "backbone.layers.1.ffn.layers.0.0.weight",
+        "backbone.layers.9.attn.attn.in_proj_bias",
+        "backbone.layers.10.ln2.bias",
+        "backbone.layers.10.ln1.bias",
+        "backbone.layers.3.attn.attn.in_proj_weight",
+        "backbone.layers.5.attn.attn.in_proj_weight",
+        "backbone.layers.6.attn.attn.in_proj_bias",
+        "backbone.layers.6.ln1.weight",
+        "backbone.layers.5.ln1.weight",
+        "backbone.layers.5.ln2.weight",
+        "backbone.layers.7.ln1.bias",
+        "backbone.layers.9.ln2.bias",
+        "backbone.layers.2.ln2.bias",
+        "backbone.layers.3.ffn.layers.0.0.bias",
+        "backbone.layers.1.ln2.weight",
+        "backbone.layers.8.ln2.weight",
+        "backbone.layers.10.ffn.layers.0.0.bias",
+        "backbone.layers.4.attn.attn.in_proj_weight",
+        "backbone.layers.7.attn.attn.out_proj.bias",
+        "backbone.layers.10.ln2.weight",
+        "backbone.layers.0.ln1.bias",
+        "backbone.layers.11.attn.attn.out_proj.weight",
+        "backbone.layers.3.ln2.weight",
+        "backbone.layers.6.attn.attn.out_proj.weight",
+        "backbone.layers.7.ln1.weight",
+        "backbone.layers.6.ln1.bias",
+        "backbone.layers.3.attn.attn.in_proj_bias",
+        "backbone.layers.11.ffn.layers.0.0.bias",
+        "decode_head.psp_modules.3.1.conv.weight",
+        "backbone.layers.4.ln1.bias",
+        "backbone.layers.11.ln1.bias",
+        "backbone.layers.4.attn.attn.out_proj.weight",
+        "backbone.layers.0.ffn.layers.0.0.weight",
+        "backbone.layers.0.attn.attn.in_proj_weight",
+        "backbone.layers.4.attn.attn.in_proj_bias",
+        "backbone.layers.1.ln2.bias",
+        "backbone.layers.4.attn.attn.out_proj.bias",
+        "backbone.layers.9.ffn.layers.0.0.bias",
+        "backbone.layers.8.attn.attn.out_proj.bias",
+        "backbone.layers.9.ffn.layers.0.0.weight",
+        "backbone.layers.10.ffn.layers.0.0.weight",
+        "backbone.layers.1.attn.attn.in_proj_bias",
+        "backbone.layers.10.attn.attn.out_proj.weight",
+        "backbone.layers.5.ffn.layers.0.0.bias",
+        "backbone.layers.7.attn.attn.out_proj.weight",
+        "backbone.layers.9.attn.attn.out_proj.bias",
+        "backbone.layers.6.attn.attn.out_proj.bias",
+        "backbone.layers.5.attn.attn.out_proj.bias",
+        "backbone.layers.8.ln1.bias",
+        "backbone.layers.2.attn.attn.out_proj.bias",
+        "backbone.layers.11.ln2.weight",
+        "backbone.layers.1.ffn.layers.0.0.bias",
+        "backbone.layers.7.ffn.layers.0.0.weight",
+        "backbone.layers.3.ln2.bias",
+        "backbone.layers.8.attn.attn.in_proj_bias",
+        "backbone.layers.10.attn.attn.in_proj_bias",
+        "backbone.layers.6.ffn.layers.0.0.bias",
+        "backbone.layers.4.ln1.weight",
+        "backbone.layers.6.ln2.weight",
+        "backbone.layers.3.ffn.layers.0.0.weight",
+        "backbone.layers.3.ln1.bias",
+        "decode_head.lateral_convs.0.conv.weight",
+        "decode_head.psp_modules.2.1.conv.weight",
+        "decode_head.psp_modules.0.1.conv.weight",
+        "backbone.layers.10.attn.attn.in_proj_weight",
+        "backbone.layers.9.attn.attn.out_proj.weight",
+        "backbone.layers.5.ffn.layers.0.0.weight",
+        "backbone.layers.8.attn.attn.out_proj.weight",
+        "backbone.layers.7.ffn.layers.0.0.bias",
+        "backbone.layers.9.ln1.bias",
+        "decode_head.lateral_convs.1.conv.weight",
+        "backbone.layers.7.attn.attn.in_proj_weight",
+        "backbone.layers.0.ffn.layers.0.0.bias",
+        "decode_head.lateral_convs.2.conv.weight",
+        "backbone.layers.0.ln2.bias",
+        "backbone.layers.3.attn.attn.out_proj.weight",
+        "backbone.layers.1.attn.attn.out_proj.bias",
+        "backbone.layers.2.attn.attn.out_proj.weight",
+        "backbone.layers.10.ln1.weight",
+        "backbone.layers.8.ffn.layers.0.0.bias",
+        "backbone.layers.9.ln2.weight",
+        "backbone.layers.0.attn.attn.in_proj_bias",
+        "backbone.layers.11.attn.attn.out_proj.bias",
+        "backbone.layers.5.attn.attn.in_proj_bias",
+        "backbone.layers.2.ln1.bias",
+        "backbone.layers.3.ln1.weight",
+        "backbone.layers.4.ffn.layers.0.0.bias",
+        "backbone.layers.11.ln1.weight",
+        "backbone.layers.5.attn.attn.out_proj.weight",
+        "backbone.layers.11.attn.attn.in_proj_bias",
+        "backbone.layers.8.ln2.bias",
+        "backbone.layers.1.ln1.bias",
+        "backbone.layers.2.attn.attn.in_proj_bias",
+        "backbone.layers.11.ln2.bias",
+        "backbone.layers.7.attn.attn.in_proj_bias",
+        "backbone.layers.4.ln2.bias",
+        "backbone.layers.8.attn.attn.in_proj_weight",
+        "backbone.layers.2.ln2.weight",
+        "backbone.layers.9.ln1.weight",
+        "backbone.layers.11.ffn.layers.0.0.weight",
+        "backbone.layers.4.ffn.layers.0.0.weight"
+      ],
+      "type": "ViTPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.lateral_convs.1.bn.weight",
+        "decode_head.bottleneck.conv.weight",
+        "decode_head.bottleneck.bn.weight",
+        "decode_head.bottleneck.bn.bias",
+        "decode_head.lateral_convs.2.bn.weight",
+        "decode_head.lateral_convs.2.conv.weight",
+        "decode_head.lateral_convs.1.bn.bias",
+        "decode_head.lateral_convs.0.conv.weight",
+        "decode_head.lateral_convs.1.conv.weight",
+        "decode_head.lateral_convs.0.bn.bias",
+        "decode_head.lateral_convs.0.bn.weight",
+        "decode_head.lateral_convs.2.bn.bias"
+      ],
+      "out_in_group": [
+        "decode_head.bottleneck.bn.bias",
+        "decode_head.lateral_convs.2.bn.bias",
+        "decode_head.lateral_convs.2.bn.weight",
+        "decode_head.lateral_convs.0.bn.bias",
+        "decode_head.lateral_convs.0.bn.weight",
+        "decode_head.bottleneck.bn.weight",
+        "decode_head.fpn_convs.0.conv.weight",
+        "decode_head.lateral_convs.1.bn.weight",
+        "decode_head.fpn_convs.1.conv.weight",
+        "decode_head.fpn_convs.2.conv.weight",
+        "decode_head.fpn_bottleneck.conv.weight",
+        "decode_head.lateral_convs.1.bn.bias"
+      ],
+      "type": "BasePruner"
+    },
+    {
+      "out_group": [
+        "decode_head.psp_modules.1.1.bn.weight",
+        "decode_head.psp_modules.1.1.bn.bias",
+        "decode_head.psp_modules.1.1.conv.weight"
+      ],
+      "out_in_group": [
+        "decode_head.psp_modules.1.1.bn.bias",
+        "decode_head.psp_modules.1.1.bn.weight",
+        "decode_head.bottleneck.conv.weight"
+      ],
+      "type": "ViTNeckPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.fpn_bottleneck.bn.weight",
+        "decode_head.fpn_bottleneck.bn.bias",
+        "decode_head.fpn_bottleneck.conv.weight"
+      ],
+      "out_in_group": [
+        "decode_head.fpn_bottleneck.bn.bias",
+        "decode_head.fpn_bottleneck.bn.weight",
+        "decode_head.conv_seg.weight",
+        "decode_head.conv_seg.bias"
+      ],
+      "type": "BasePruner"
+    },
+    {
+      "out_group": [
+        "decode_head.psp_modules.3.1.bn.weight",
+        "decode_head.psp_modules.3.1.conv.weight",
+        "decode_head.psp_modules.3.1.bn.bias"
+      ],
+      "out_in_group": [
+        "decode_head.bottleneck.conv.weight",
+        "decode_head.psp_modules.3.1.bn.bias",
+        "decode_head.psp_modules.3.1.bn.weight"
+      ],
+      "type": "ViTNeckPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.fpn_convs.0.bn.weight",
+        "decode_head.fpn_convs.0.conv.weight",
+        "decode_head.fpn_convs.0.bn.bias"
+      ],
+      "out_in_group": [
+        "decode_head.fpn_bottleneck.conv.weight",
+        "decode_head.fpn_convs.0.bn.weight",
+        "decode_head.fpn_convs.0.bn.bias"
+      ],
+      "type": "FPNPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.psp_modules.0.1.bn.bias",
+        "decode_head.psp_modules.0.1.conv.weight",
+        "decode_head.psp_modules.0.1.bn.weight"
+      ],
+      "out_in_group": [
+        "decode_head.psp_modules.0.1.bn.bias",
+        "decode_head.psp_modules.0.1.bn.weight",
+        "decode_head.bottleneck.conv.weight"
+      ],
+      "type": "ViTNeckPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.fpn_convs.2.conv.weight",
+        "decode_head.fpn_convs.2.bn.bias",
+        "decode_head.fpn_convs.2.bn.weight"
+      ],
+      "out_in_group": [
+        "decode_head.fpn_convs.2.bn.bias",
+        "decode_head.fpn_bottleneck.conv.weight",
+        "decode_head.fpn_convs.2.bn.weight"
+      ],
+      "type": "FPNPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.fpn_convs.1.conv.weight",
+        "decode_head.fpn_convs.1.bn.weight",
+        "decode_head.fpn_convs.1.bn.bias"
+      ],
+      "out_in_group": [
+        "decode_head.fpn_convs.1.bn.bias",
+        "decode_head.fpn_bottleneck.conv.weight",
+        "decode_head.fpn_convs.1.bn.weight"
+      ],
+      "type": "FPNPruner"
+    },
+    {
+      "out_group": [
+        "decode_head.psp_modules.2.1.conv.weight",
+        "decode_head.psp_modules.2.1.bn.bias",
+        "decode_head.psp_modules.2.1.bn.weight"
+      ],
+      "out_in_group": [
+        "decode_head.psp_modules.2.1.bn.weight",
+        "decode_head.psp_modules.2.1.bn.bias",
+        "decode_head.bottleneck.conv.weight"
+      ],
+      "type": "ViTNeckPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.8.ffn.layers.0.0.weight",
+        "backbone.layers.8.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.8.ffn.layers.1.weight",
+        "backbone.layers.8.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.1.ffn.layers.0.0.weight",
+        "backbone.layers.1.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.1.ffn.layers.1.bias",
+        "backbone.layers.1.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.10.ffn.layers.0.0.weight",
+        "backbone.layers.10.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.10.ffn.layers.1.weight",
+        "backbone.layers.10.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.11.ffn.layers.0.0.weight",
+        "backbone.layers.11.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.11.ffn.layers.1.weight",
+        "backbone.layers.11.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.0.ffn.layers.0.0.bias",
+        "backbone.layers.0.ffn.layers.0.0.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.0.ffn.layers.1.bias",
+        "backbone.layers.0.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.9.ffn.layers.0.0.weight",
+        "backbone.layers.9.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.9.ffn.layers.1.weight",
+        "backbone.layers.9.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.7.ffn.layers.0.0.bias",
+        "backbone.layers.7.ffn.layers.0.0.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.7.ffn.layers.1.bias",
+        "backbone.layers.7.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.3.ffn.layers.0.0.weight",
+        "backbone.layers.3.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.3.ffn.layers.1.weight",
+        "backbone.layers.3.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.5.ffn.layers.0.0.weight",
+        "backbone.layers.5.ffn.layers.0.0.bias"
+      ],
+      "out_in_group": [
+        "backbone.layers.5.ffn.layers.1.bias",
+        "backbone.layers.5.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.2.ffn.layers.0.0.bias",
+        "backbone.layers.2.ffn.layers.0.0.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.2.ffn.layers.1.bias",
+        "backbone.layers.2.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.6.ffn.layers.0.0.bias",
+        "backbone.layers.6.ffn.layers.0.0.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.6.ffn.layers.1.weight",
+        "backbone.layers.6.ffn.layers.1.bias"
+      ],
+      "type": "FFNPruner"
+    },
+    {
+      "out_group": [
+        "backbone.layers.4.ffn.layers.0.0.bias",
+        "backbone.layers.4.ffn.layers.0.0.weight"
+      ],
+      "out_in_group": [
+        "backbone.layers.4.ffn.layers.1.bias",
+        "backbone.layers.4.ffn.layers.1.weight"
+      ],
+      "type": "FFNPruner"
+    }
+  ]
+}
